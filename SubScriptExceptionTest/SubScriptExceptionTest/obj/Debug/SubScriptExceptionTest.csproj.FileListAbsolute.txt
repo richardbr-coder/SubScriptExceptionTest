@@ -1,0 +1,6 @@
+H:\OneDrive\School-CVVRS\Semester 2\Fundamentals of programming 2\Assignment #5\SubScriptExceptionTest\SubScriptExceptionTest\bin\Debug\SubScriptExceptionTest.exe.config
+H:\OneDrive\School-CVVRS\Semester 2\Fundamentals of programming 2\Assignment #5\SubScriptExceptionTest\SubScriptExceptionTest\bin\Debug\SubScriptExceptionTest.exe
+H:\OneDrive\School-CVVRS\Semester 2\Fundamentals of programming 2\Assignment #5\SubScriptExceptionTest\SubScriptExceptionTest\bin\Debug\SubScriptExceptionTest.pdb
+H:\OneDrive\School-CVVRS\Semester 2\Fundamentals of programming 2\Assignment #5\SubScriptExceptionTest\SubScriptExceptionTest\obj\Debug\SubScriptExceptionTest.csprojAssemblyReference.cache
+H:\OneDrive\School-CVVRS\Semester 2\Fundamentals of programming 2\Assignment #5\SubScriptExceptionTest\SubScriptExceptionTest\obj\Debug\SubScriptExceptionTest.exe
+H:\OneDrive\School-CVVRS\Semester 2\Fundamentals of programming 2\Assignment #5\SubScriptExceptionTest\SubScriptExceptionTest\obj\Debug\SubScriptExceptionTest.pdb
